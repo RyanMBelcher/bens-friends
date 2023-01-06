@@ -1,5 +1,5 @@
-const cloudName = "dk3t9jg7w";
-const uploadPreset = "ll0omhax";
+const cloudName = "di32zxbej";
+const uploadPreset = "devrmlvp";
 
 const signupFormHandler = async (event) => {
   event.preventDefault();
